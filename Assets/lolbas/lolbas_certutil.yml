@@ -13,7 +13,7 @@ detection:
     - Image|endswith: '\certutil.exe'
     - OriginalFileName: 'CertUtil.exe'
   selection_cli:
-    ComandLine|contains:
+    CommandLine|contains:
       - "-urlcache"
       - "-verifyctl"
       - "-encode"
