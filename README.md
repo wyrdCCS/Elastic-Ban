@@ -1,5 +1,5 @@
-# Detection-Library
-Detection Library
+# Elastic-Ban
+Elastic-Ban is a collection of detections built for the elastic SIEM. This is a free to use collection of detections. Feel free to add in youe own using the [template](https://github.com/wyrdCCS/Elastic-Ban/blob/main/Assets/lolbas/lolbas/template.md)!
 
 # [LOLBAS](https://lolbas-project.github.io/)
 
