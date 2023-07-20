@@ -7,7 +7,7 @@ Detection Library
 -----------------|------------------|----------------|-----------------|
 appinstaller.exe | aspnet_compiler.exe | at.exe | atbroker.exe | 
 bash.exe | bitsadmin.exe | certoc.exe | certreq.exe |
-[certutil.exe](https://github.com/matze-infosec/Detection-Library/blob/main/Assets/lolbas/lolbas_certutil.yml) | cmd.exe | cmdkey.exe | cmd132.exe |
+[certutil.exe](https://github.com/matze-infosec/Detection-Library/blob/main/Assets/lolbas/lolbas/certutil.md) | cmd.exe | cmdkey.exe | cmd132.exe |
 cmstp.exe | configsecuritypolicy.exe | conhost.exe | control.exe | 
 csc.exe | cscript.exe | customshellhost.exe | datasvcutil.exe |
 desktopimgdownldr.exe | devicecredentialdeployment.exe | dfsvc.exe | diantz.exe |
