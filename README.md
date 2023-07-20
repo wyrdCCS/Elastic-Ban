@@ -3,7 +3,7 @@ Detection Library
 
 # [LOLBAS](https://lolbas-project.github.io/)
 
- 
+|                |                  |                |                 |
 -----------------|------------------|----------------|-----------------|
 appinstaller.exe | aspnet_compiler.exe | at.exe | atbroker.exe | 
 bash.exe | bitsadmin.exe | certoc.exe | certreq.exe |
