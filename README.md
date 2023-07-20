@@ -20,4 +20,10 @@ ldifde.exe | makecab.exe | mavinject.exe | mmc.exe |
 mpcmdrun.exe | msbuild.exe | msconfig.exe | msdt.exe |
 mshta.exe | msiexec.exe |  |  | 
 
+# Windows Based Detections
+
+|                  |                    |                  |                   |
+-------------------|--------------------|------------------|-------------------|
+Bruteforce log-ins | Encoded Powershell | Powershell IEX | Powershell AD Check |
+
 # More to come soon!!!
