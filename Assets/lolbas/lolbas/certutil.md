@@ -13,10 +13,10 @@ Certutil.exe is a command-line program, installed as part of Certificate Service
 Medium
 
 ### MITER ATT&CK:
-T1105 > [Ingress Tool Transfer](https://attack.mitre.org/techniques/T1105/)
-TA0005 > T1564 > T1564.004 > [Hide Artifacts: NTFS File Attributes](https://attack.mitre.org/techniques/T1564/004/)
-TA0005 > T1027 > [Obfuscated Files or Information](https://attack.mitre.org/techniques/T1027/)
-TA0005 > T1140 > [Deobfuscate/Decode Files or Information](https://attack.mitre.org/techniques/T1140/)
+- T1105 > [Ingress Tool Transfer](https://attack.mitre.org/techniques/T1105/)
+- TA0005 > T1564 > T1564.004 > [Hide Artifacts: NTFS File Attributes](https://attack.mitre.org/techniques/T1564/004/)
+- TA0005 > T1027 > [Obfuscated Files or Information](https://attack.mitre.org/techniques/T1027/)
+- TA0005 > T1140 > [Deobfuscate/Decode Files or Information](https://attack.mitre.org/techniques/T1140/)
 
 ### Resources:
 - https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/certutil
