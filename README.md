@@ -7,7 +7,7 @@ Elastic-Ban is a collection of detections built for the elastic SIEM. This is a 
 -----------------|------------------|----------------|-----------------|
 appinstaller.exe | aspnet_compiler.exe | at.exe | atbroker.exe | 
 bash.exe | bitsadmin.exe | certoc.exe | certreq.exe |
-[certutil.exe](https://github.com/matze-infosec/Detection-Library/blob/main/Assets/lolbas/lolbas/certutil.md) | cmd.exe | cmdkey.exe | cmd132.exe |
+[certutil.exe](https://github.com/wyrdCCS/Elastic-Ban/blob/main/Assets/lolbas1/lolbas_certutil.md) | cmd.exe | cmdkey.exe | cmd132.exe |
 cmstp.exe | configsecuritypolicy.exe | conhost.exe | control.exe | 
 csc.exe | cscript.exe | customshellhost.exe | datasvcutil.exe |
 desktopimgdownldr.exe | devicecredentialdeployment.exe | dfsvc.exe | diantz.exe |
@@ -20,10 +20,10 @@ ldifde.exe | makecab.exe | mavinject.exe | mmc.exe |
 mpcmdrun.exe | msbuild.exe | msconfig.exe | msdt.exe |
 mshta.exe | msiexec.exe |  |  | 
 
-# Windows Based Detections
+# Windows/AD Based Detections
 
 |                  |                    |                  |                   |
 -------------------|--------------------|------------------|-------------------|
-Bruteforce log-ins | Encoded Powershell | Powershell IEX | Powershell AD Check |
+[Enumeration Net.exe](https://github.com/wyrdCCS/Elastic-Ban/blob/main/Assets/Windows/domain_enumeration_net.md) | Encoded Powershell | Powershell IEX | Powershell AD Check |
 
 # More to come soon!!!
