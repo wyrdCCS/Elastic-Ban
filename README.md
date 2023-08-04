@@ -24,6 +24,6 @@ mshta.exe | msiexec.exe |  |  |
 
 |                  |                    |                  |                   |
 -------------------|--------------------|------------------|-------------------|
-[Enumeration Net.exe](https://github.com/wyrdCCS/Elastic-Ban/blob/main/Assets/Windows/domain_enumeration_net.md) | Encoded Powershell | Powershell IEX | Powershell AD Check |
+[net-recon-domain](https://github.com/wyrdCCS/Elastic-Ban/blob/main/Assets/Windows/domain_enumeration_net.md) | Encoded Powershell | Powershell IEX | Powershell AD Check |
 
 # More to come soon!!!
